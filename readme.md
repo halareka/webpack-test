@@ -1,6 +1,6 @@
-**инициализация и установка вебпака**  
+# **инициализация и установка вебпака**  
   - ```npm init -y```  
   - ```npm i -D webpack webpack-cli```  
   - ```npm install --save-dev html-webpack-plugin```  
-**запуск**  
+# **запуск**  
   - ```npm run build```  
