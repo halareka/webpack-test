@@ -3,5 +3,5 @@
   - ```npm i -D webpack webpack-cli```  
   - ```npm install --save-dev html-webpack-plugin```  
 
-## **запуск**  
+# **запуск**  
   - ```npm run build```
