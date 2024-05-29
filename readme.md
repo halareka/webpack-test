@@ -4,4 +4,4 @@
   - ```npm install --save-dev html-webpack-plugin```  
 
 ## **запуск**  
-  - ```npm run build```
+  - ```npm run build```ff
