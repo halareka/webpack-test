@@ -1,7 +1,12 @@
 # **инициализация и установка вебпака**  
   - ```npm init -y```  
   - ```npm i -D webpack webpack-cli```  
-  - ```npm install --save-dev html-webpack-plugin```  
+  
+  - ```npm i --save-dev html-webpack-plugin```  
+  - ```npm i --save-dev copy-webpack-plugin```  
+
+  - ```npm i --save-dev mini-css-extract-plugin```  
+  - ```npm i --save-dev css-minimizer-webpack-plugin```  
 
 # **запуск**  
   - ```npm run build```
